@@ -3,6 +3,12 @@
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1H02nPi64xmAH9DNvVs2ri15O0f36IX3hWvasRI22rFc#0)
 [![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1U5TkNyjqhqrwY55DpaRgKcxTjDZOLemI#scrollTo=-Qt9Twsbjrjy)
+[![Scraping](https://img.shields.io/badge/Sccraping-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1HKK_TbHFuo1RNRpOj3LEbVgWnz3oFUM7#scrollTo=GxxIHdiOov8D)
+[![PyPDF2](https://img.shields.io/badge/PyPDF2-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1xaizQ7Z6JdHKWwptp0O5qHPHVSbjCs7u#scrollTo=NGR0M3oaoWZK) <br>
+[![Metadata_Grobid](https://img.shields.io/badge/Metadata_Grobid-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1udLCjcjwdSC0Wg05QLp6W7zboybkkWJR#scrollTo=WdjzuHj5oPEu)
+[![Grobid_LXML](https://img.shields.io/badge/Grobid_LXML-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1uRJkYiCq61ihazmEVIuHuRkq-p3xQAJh)
+[![Grobid_LXML](https://img.shields.io/badge/Grobid_LXML-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1uRJkYiCq61ihazmEVIuHuRkq-p3xQAJh)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1XsSpkZx7PLmYqxxIEICuHFReGapJBN_y#scrollTo=pUnnfr7tm-9I)
 
 
 ## Problem Statement
