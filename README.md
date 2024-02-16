@@ -28,6 +28,10 @@
 ## Learning Outcomes
 *The objective of this assignment is to develop a comprehensive data engineering solution that aggregates, structures, and makes accessible a vast array of finance professional development materials. This project will enhance the learning experience for finance professionals by providing an intelligent app interface to interact with curated finance materials*
 
+## Architecture Workflow
+![CFA_Extraction](https://github.com/BigDataIA-Spring2024-Sec1-Team5/Assignment2/assets/114545333/93cb5f1c-d4c5-42ac-be78-ace7a1e334b4)
+
+
 ## Team Information and Contribution 
 
 Name | Contribution %| Contributions |
