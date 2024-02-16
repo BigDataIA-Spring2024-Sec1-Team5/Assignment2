@@ -1,4 +1,5 @@
 SQLAlchemy<2.0
+snowflake-SQLAlchemy
 pymysql
 bcrypt
 python-dotenv
