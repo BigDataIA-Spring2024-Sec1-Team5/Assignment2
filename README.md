@@ -9,7 +9,7 @@
 [![Grobid_LXML](https://img.shields.io/badge/Grobid_LXML-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1uRJkYiCq61ihazmEVIuHuRkq-p3xQAJh)
 [![Grobid_LXML](https://img.shields.io/badge/Grobid_LXML-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1uRJkYiCq61ihazmEVIuHuRkq-p3xQAJh)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1XsSpkZx7PLmYqxxIEICuHFReGapJBN_y#scrollTo=pUnnfr7tm-9I)
-
+[![AWS S3](https://img.shields.io/badge/AWSS3-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1g_Bk6w_gKwhdU6hZbQ9qSiA-Yo3UKr0P?usp=sharing)
 
 ## Problem Statement
 *Development of a Structured Database and Text Extraction System for Finance Professional Development Resources*
@@ -41,12 +41,14 @@
 📦 Assignment2
 ├─ ReadME
 |- Notebooks
-│  ├─ team05websc.ipynb
+│  ├─ Scrapping.ipynb
 │  ├─ PyPDF2_Team05.ipynb
 │  ├─ grobid_script.sh
 │  ├─ grobid_lxml_team05.ipynb
 │  ├─ metadata_structured_code.ipynb
 │  ├─ snowflake_requirements.txt
+│  ├─ AWS_S3.py
+│  ├─ Grobid_Snowflake.py
 │  └─ SQLAlchemy.py
 ├─ Outputs
 │  ├─ Team05.csv
