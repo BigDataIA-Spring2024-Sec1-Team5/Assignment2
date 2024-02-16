@@ -2,6 +2,8 @@
 
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1H02nPi64xmAH9DNvVs2ri15O0f36IX3hWvasRI22rFc#0)
+[![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1U5TkNyjqhqrwY55DpaRgKcxTjDZOLemI#scrollTo=-Qt9Twsbjrjy)
+
 
 ## Problem Statement
 *Development of a Structured Database and Text Extraction System for Finance Professional Development Resources*
