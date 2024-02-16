@@ -9,7 +9,7 @@
 *Development of a Structured Database and Text Extraction System for Finance Professional Development Resources*
 
 ## Project Goals
-*Your task is to create two primary datasets from the refresher readings listed on the CFA Institute’s website and the topic outlines(attached PDF files). These readings are crucial for finance professionals looking to improve their finance skills. The datasets will serve as the backbone for an intelligent application designed for these professionals.*
+*Your task is to create two primary datasets from the refresher readings listed on the CFA Institute’s website and the topic outlines(attached PDF files). These readings are crucial for finance professionals looking to improve their finance skills. The datasets will serve as the backbone for an intelligent application designed for these professionals*
 
 ## Technologies Used
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
